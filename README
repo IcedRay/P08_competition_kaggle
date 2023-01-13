@@ -1,2 +1,5 @@
 Code preview generated for a kaggle competition
+based on https://www.kaggle.com/competitions/rsna-breast-cancer-detection
 
+to install dependencies, use the followin command
+```pip install tensorflow matplotlib pandas numpy pillow scikit-image```
